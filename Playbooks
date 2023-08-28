@@ -1,0 +1,18 @@
+Some resources for SOAR
+
+1. Few sample playbooks with details worflow designed.
+  https://www.incidentresponse.org/playbooks/
+
+2. A huge repo consisting all the tools required for IR.
+    https://github.com/meirwah/awesome-incident-response
+
+3. https://github.com/austinsonger/Incident-Playbook
+
+4. https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards
+
+5. https://github.com/msraju/Incident-Response-Playbooks
+
+6. https://github.com/dfir-dd/DFIR-wiki
+
+7. A list of playbooks with code which can be directly deployed with little effort.
+    https://github.com/luduslibrum/awesome-playbooks
